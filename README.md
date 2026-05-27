@@ -2,7 +2,7 @@
 
 <div align="center">
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=58A6FF&center=true&vCenter=true&width=435&lines=Estudante+de+Engenharia+da+Computação;React+%7C+Python+%7C+Node.js;Transformando+ideias+em+código" alt="Typing SVG" />
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=b7b493&center=true&vCenter=true&width=450&lines=Estudante+de+Engenharia+da+Computação;React+%7C+Python+%7C+Node.js;Transformando+ideias+em+código" alt="Typing SVG" />
 
 </div>
 
@@ -35,65 +35,13 @@
 
 ### Back-end & Ferramentas
 
-<img src="https://skillicons.dev/icons?i=nodejs,python,flask,git,github,vscode" />
+<img src="https://skillicons.dev/icons?i=nodejs,python,flask,git,github,vscode,intellij" />
 
 ### Estudando Atualmente
 
-<img src="https://skillicons.dev/icons?i=java" />
+<img src="https://skillicons.dev/icons?i=java,kotlin" />
 
 </div>
-
----
-
-## 📌 Projetos em Destaque
-
-### 💬 Aplicação de Chat
-
-Uma plataforma moderna de chat em tempo real desenvolvida com React.
-
-✨ Funcionalidades:
-
-* Sistema de autenticação
-* Persistência de login com localStorage
-* Chats privados e grupos
-* Ideias para timeline/rede social
-
----
-
-### 🐦 Clone do Twitter
-
-Projeto de simulação de rede social focado em arquitetura React e integração com APIs.
-
-🧪 Inclui:
-
-* Testes de componentes com Vitest
-* API simulada com json-server
-* Interface responsiva
-
----
-
-### 🤖 Bot para Discord
-
-Bot capaz de editar imagens dinamicamente utilizando Python e Pillow.
-
-🎨 Funcionalidades:
-
-* Manipulação de avatar
-* Integração com ícones do servidor
-* Renderização personalizada de imagens
-
----
-
-### ⛏️ Projeto inspirado em Minecraft
-
-Experimentos com mecânicas sandbox usando Python e Ursina Engine.
-
-🌍 Sistemas planejados:
-
-* Inventário de blocos
-* Ciclo de dia e noite
-* Criaturas e mobs
-* Diferentes tipos de blocos
 
 ---
 
@@ -101,8 +49,8 @@ Experimentos com mecânicas sandbox usando Python e Ursina Engine.
 
 <div align="center">
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=nicolasplanas&show_icons=true&theme=tokyonight&hide_border=true" />
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nicolasplanas&layout=compact&theme=tokyonight&hide_border=true" />
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=nicolasplanas&show_icons=true&theme=github_dark" />
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nicolasplanas&layout=compact&theme=github_dark" />
 
 </div>
 
@@ -124,6 +72,10 @@ Experimentos com mecânicas sandbox usando Python e Ursina Engine.
 
 <a href="https://github.com/nicolasplanas">
   <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
+</a>
+
+<a href="https://www.linkedin.com/in/nicolas-planas-b23a43230/">
+  <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
 </a>
 
 </div>
