@@ -35,24 +35,11 @@
 
 ### Back-end & Ferramentas
 
-<img src="https://skillicons.dev/icons?i=nodejs,python,flask,myslq,git,github,vscode,idea" />
+<img src="https://skillicons.dev/icons?i=nodejs,python,flask,git,github,vscode,idea" />
 
 ### Estudando Atualmente
 
 <img src="https://skillicons.dev/icons?i=java,kotlin" />
-
-</div>
-
----
-
-## 📊 Estatísticas do GitHub
-
-<div align="center">
-
-<img 
-  height="180em" 
-  src="https://github-readme-stats.vercel.app/api?username=nicolasplanas&show_icons=true&theme=transparent&rank_icon=github" 
-/>
 
 </div>
 
